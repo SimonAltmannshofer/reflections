@@ -1,0 +1,9 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+A hidden folder .git is created. This folder contains the necessary files for git.
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area does not contain all files like the working directory, nor does it contain the commits and history as the repository. Changes made to the 
+staging area can be reverted easily.
