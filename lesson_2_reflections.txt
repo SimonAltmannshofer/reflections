@@ -1,19 +1,24 @@
-What happens when you initialize a repository? Why do you need to do it?
+1. What happens when you initialize a repository? Why do you need to do it?
 
 A hidden folder .git is created. This folder contains the necessary files for git.
 
 
-How is the staging area different from the working directory and the repository? What value do you think it offers?
+2. How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 The staging area does not contain all files like the working directory, nor does it contain the commits and history as the repository. Changes made to the 
 staging area can be reverted easily.
 
 
-How can you use the staging area to make sure you have one commit per logical change?
+3. How can you use the staging area to make sure you have one commit per logical change?
 
 In the staging area all added files are listed and the status can be reset.
 
 
-What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+4. What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 When I want to try something new. When a new project is created.
+
+
+5. How do the diagrams help you visualize the branch structure?
+
+The diagrams shows the different branches like a crossing in a tree.
