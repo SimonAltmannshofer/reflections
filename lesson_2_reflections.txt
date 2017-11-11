@@ -22,3 +22,13 @@ When I want to try something new. When a new project is created.
 5. How do the diagrams help you visualize the branch structure?
 
 The diagrams shows the different branches like a crossing in a tree.
+
+
+6. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Both features from the branches will be fused into one branch. The diagram shows the integration of both branches.
+
+7. What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Pros: Faster commits of simple changes. 
+Cons: The user may not really know which changes are made.
