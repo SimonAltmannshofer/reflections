@@ -13,3 +13,8 @@ By pulling manually I can decide which commit and branch to choose.
 Fork: corresponds to clone from GitHub to GitHub
 Clone: Copy a repository on my PC
 Branch: Create a new parallel version
+
+
+4. What is the benefit of having a copy of the last known state of the remote stored locally?
+
+The benefit is to work offline on the last remote.
