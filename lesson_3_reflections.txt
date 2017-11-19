@@ -18,3 +18,8 @@ Branch: Create a new parallel version
 4. What is the benefit of having a copy of the last known state of the remote stored locally?
 
 The benefit is to work offline on the last remote.
+
+
+5. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Without git I would append a version number to files or folders to track different versions. I would be harder to handle the different verions but it would be easier for other persons to start with.
